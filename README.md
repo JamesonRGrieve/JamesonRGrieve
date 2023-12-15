@@ -8,7 +8,7 @@ I actively work with languages and frameworks including `JavaScript`, `C#`, `Pyt
 
 ## Projects
 
-I contribute heavily to [AGiXT]([https://github.com/Josh-XT/Agent-LLM](https://github.com/Josh-XT/AGiXT)), a versatile Python application utilizing AI language models for task management and problem-solving. It supports various AI providers including OpenAI GPT-3.5, GPT-4, Oobabooga Text Generation Web UI, llama.cpp, and more, with the list continually expanding. 
+I contribute heavily to [AGiXT](https://github.com/Josh-XT/AGiXT), a versatile Python application utilizing AI language models for task management and problem-solving. It supports various AI providers including OpenAI GPT-3.5, GPT-4, Oobabooga Text Generation Web UI, llama.cpp, and more, with the list continually expanding. 
 
 I previously developed a very well recieved modification for the video game Fallout 4, adding several textures and quality of life features to one of the game mechanics. 
 
