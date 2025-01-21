@@ -1,16 +1,15 @@
-# About Me
-
-I got my start in programming and software development in my pre-teens developing scripts and modifications for video games in my spare time. I've honed these skills over the past nearly two decades, becoming a full-stack developer with expertise in a wide array of languages and frameworks.
+## About Me
+I began my programming journey in my early teens, creating scripts and modifications for video games. Over nearly two decades, I've evolved into a full-stack developer proficient in a diverse range of languages and frameworks.
 
 ## Skills
+I actively work with:
 
-I actively work with languages and frameworks including `JavaScript`, `C#`, `Python`, `NextJS`, `DotNET Core` using `Visual Studio Code` as my primary IDE. I take great pleasure in crafting applications with excellent user experience, maintainability and efficiency.
+Languages: TypeScript, Python, C#
+Frameworks: Next.js, FastAPI, .NET Core
+Tools: Visual Studio Code
+I take great pleasure in crafting applications with excellent user experience, maintainability, and efficiency.
 
 ## Projects
 
-I contribute heavily to [AGiXT](https://github.com/Josh-XT/AGiXT), a versatile Python application utilizing AI language models for task management and problem-solving. It supports various AI providers including OpenAI GPT-3.5, GPT-4, Oobabooga Text Generation Web UI, llama.cpp, and more, with the list continually expanding. 
-
-I previously developed a very well recieved modification for the video game Fallout 4, adding several textures and quality of life features to one of the game mechanics. 
-
-Additionally I am involved in several private projects.
+I contribute significantly to AGiXT, a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers.
 
