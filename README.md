@@ -10,5 +10,5 @@ Languages:
 
 ## Projects
 
-I contribute significantly to AGiXT, a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers.
+I authored the vast majority of and maintain an agentic AI framework called AGInfrastructure.
 
